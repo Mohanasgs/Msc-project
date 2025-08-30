@@ -1,3 +1,7 @@
+#uavids.py
+# Author - Mohana SGS
+# Msc Cyber security
+# Research project
 import os, json, time, threading, queue, random, joblib, warnings, traceback, re
 import numpy as np
 import pandas as pd
