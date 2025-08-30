@@ -1,0 +1,31 @@
+{
+  "case_name": "Access",
+  "timestamp": "2025-08-29 01:57:02",
+  "data_info": {
+    "total_samples": 1680499,
+    "features": 56,
+    "classes": 11,
+    "class_names": [
+      "Bruteforce",
+      "DDoS",
+      "Deauthentication",
+      "DoS",
+      "Evil Twin",
+      "Fakelanding",
+      "GPS Jamming",
+      "Normal",
+      "Reconnaissance",
+      "Replay",
+      "Scanning"
+    ],
+    "removed_rare_classes": []
+  },
+  "performance": {
+    "accuracy": 1.0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1_score": 1.0,
+    "training_time": 630.6525454521179,
+    "best_iteration": 0
+  }
+}

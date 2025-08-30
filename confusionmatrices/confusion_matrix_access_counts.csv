@@ -1,0 +1,12 @@
+,Bruteforce,DDoS,Deauthentication,DoS,Evil Twin,Fakelanding,GPS Jamming,Normal,Reconnaissance,Replay,Scanning
+Bruteforce,35185,0,0,0,0,0,0,0,0,0,0
+DDoS,0,4214,0,0,0,0,0,0,0,0,0
+Deauthentication,0,0,6394,0,0,0,0,0,0,0,0
+DoS,0,0,0,11026,0,0,0,0,0,0,0
+Evil Twin,0,0,0,0,59957,0,0,0,0,0,0
+Fakelanding,0,0,0,0,0,4810,0,0,0,0,0
+GPS Jamming,0,0,0,0,0,0,8320,0,0,0,0
+Normal,0,0,0,0,0,0,0,182261,0,0,0
+Reconnaissance,0,0,0,0,0,0,0,0,4,0,0
+Replay,0,0,0,0,0,0,0,0,0,1706,0
+Scanning,0,0,0,0,0,0,0,0,0,0,22223

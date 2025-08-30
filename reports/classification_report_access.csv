@@ -1,0 +1,12 @@
+Class,Precision,Recall,F1-Score,Support
+Bruteforce,1.0,1.0,1.0,35185
+DDoS,1.0,1.0,1.0,4214
+Deauthentication,1.0,1.0,1.0,6394
+DoS,1.0,1.0,1.0,11026
+Evil Twin,1.0,1.0,1.0,59957
+Fakelanding,1.0,1.0,1.0,4810
+GPS Jamming,1.0,1.0,1.0,8320
+Normal,1.0,1.0,1.0,182261
+Reconnaissance,1.0,1.0,1.0,4
+Replay,1.0,1.0,1.0,1706
+Scanning,1.0,1.0,1.0,22223

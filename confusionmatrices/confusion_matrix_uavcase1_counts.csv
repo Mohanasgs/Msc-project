@@ -1,0 +1,14 @@
+,Bruteforce,DDoS,Deauthentication,DoS,Fakelanding,ICMP Flooding,Jamming,MITM,Normal,Reconnaissance,Replay,Scanning,UDP Flooding
+Bruteforce,35185,0,0,0,0,0,0,0,0,0,0,0,0
+DDoS,0,38634,0,0,0,0,0,0,0,0,0,0,0
+Deauthentication,0,0,2921,0,0,0,0,0,0,0,0,0,0
+DoS,0,0,0,1285,0,0,0,0,0,0,0,0,0
+Fakelanding,0,0,0,0,4810,0,0,0,0,0,0,0,0
+ICMP Flooding,0,0,0,0,0,9509,0,0,0,0,0,0,0
+Jamming,0,0,0,0,0,0,8320,0,0,0,0,0,0
+MITM,0,0,0,0,0,0,0,30317,0,0,0,0,0
+Normal,0,0,0,0,0,0,0,0,3590,0,0,0,0
+Reconnaissance,0,0,0,0,0,0,0,0,0,0,0,1,0
+Replay,0,0,0,0,0,0,0,0,0,0,5196,0,0
+Scanning,0,0,0,0,0,0,0,0,0,0,0,1806,0
+UDP Flooding,0,0,0,0,0,0,0,0,0,0,0,0,30555

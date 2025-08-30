@@ -1,0 +1,11 @@
+,Bruteforce,DDoS,Deauthentication,DoS,Evil Twin,Fake Landing,MITM,Normal,Reconnaissance,Scanning
+Bruteforce,2032,0,0,0,0,0,0,0,0,0
+DDoS,0,38565,0,0,0,0,0,0,0,0
+Deauthentication,0,0,10,254,0,0,0,0,0,0
+DoS,0,0,2195,109046,0,0,17,0,0,0
+Evil Twin,0,0,0,0,24,0,4,0,0,0
+Fake Landing,0,0,0,0,0,111,8,0,0,0
+MITM,0,0,0,0,19,5,637,1,0,0
+Normal,0,0,0,0,0,0,0,22,0,0
+Reconnaissance,0,0,0,0,0,0,0,1,1728,1137
+Scanning,0,0,0,0,0,0,1,0,1727,7183
