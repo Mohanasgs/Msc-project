@@ -1,0 +1,33 @@
+{
+  "case_name": "UAVCase1",
+  "timestamp": "2025-08-29 01:01:07",
+  "data_info": {
+    "total_samples": 860643,
+    "features": 42,
+    "classes": 13,
+    "class_names": [
+      "Bruteforce",
+      "DDoS",
+      "Deauthentication",
+      "DoS",
+      "Fakelanding",
+      "ICMP Flooding",
+      "Jamming",
+      "MITM",
+      "Normal",
+      "Reconnaissance",
+      "Replay",
+      "Scanning",
+      "UDP Flooding"
+    ],
+    "removed_rare_classes": []
+  },
+  "performance": {
+    "accuracy": 0.9999941904037088,
+    "precision": 0.9999883840224681,
+    "recall": 0.9999941904037088,
+    "f1_score": 0.9999912864095484,
+    "training_time": 680.6190695762634,
+    "best_iteration": 0
+  }
+}

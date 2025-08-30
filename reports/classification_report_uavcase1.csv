@@ -1,0 +1,14 @@
+Class,Precision,Recall,F1-Score,Support
+Bruteforce,1.0,1.0,1.0,35185
+DDoS,1.0,1.0,1.0,38634
+Deauthentication,1.0,1.0,1.0,2921
+DoS,1.0,1.0,1.0,1285
+Fakelanding,1.0,1.0,1.0,4810
+ICMP Flooding,1.0,1.0,1.0,9509
+Jamming,1.0,1.0,1.0,8320
+MITM,1.0,1.0,1.0,30317
+Normal,1.0,1.0,1.0,3590
+Reconnaissance,0.0,0.0,0.0,1
+Replay,1.0,1.0,1.0,5196
+Scanning,0.9994465965688988,1.0,0.9997232216994187,1806
+UDP Flooding,1.0,1.0,1.0,30555

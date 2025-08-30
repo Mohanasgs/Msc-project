@@ -1,0 +1,30 @@
+{
+  "case_name": "GCSCase3",
+  "timestamp": "2025-08-29 01:36:20",
+  "data_info": {
+    "total_samples": 823632,
+    "features": 78,
+    "classes": 10,
+    "class_names": [
+      "Bruteforce",
+      "DDoS",
+      "Deauthentication",
+      "DoS",
+      "Evil Twin",
+      "Fake Landing",
+      "MITM",
+      "Normal",
+      "Reconnaissance",
+      "Scanning"
+    ],
+    "removed_rare_classes": []
+  },
+  "performance": {
+    "accuracy": 0.9674066789293801,
+    "precision": 0.9804475694392765,
+    "recall": 0.9674066789293801,
+    "f1_score": 0.9737112661875751,
+    "training_time": 848.6030745506287,
+    "best_iteration": 0
+  }
+}
