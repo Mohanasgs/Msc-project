@@ -1,4 +1,7 @@
 # ===== training.py =====
+# Author - Mohana SGS
+# Msc Cyber security
+# Research project
 import os
 import io
 import json
@@ -831,3 +834,5 @@ print("gcs_results = train_gcscase3()")
 print("access_results = train_access()")
 print("all_results = train_all_cases()")
 print(f"LIME PNGs: {OUTPUT_BASE}/lime_reports/<case>/")
+#use all_results = train_all_cases() if you want to train all cases at the same time
+#you can use casename_result = train_casename() if you want to train cases separately
