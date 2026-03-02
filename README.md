@@ -11,3 +11,6 @@ Outputs generated during training and evaluation include confusion matrices, cla
 The repository is structured with separate modules for training, monitoring, and output storage. Training scripts process UAV-NIDD cases such as UAVCase1, GCSCase3, and AccessPoint2, while exporting model bundles (including the trained model, label encoder, and feature specification) for later use. The monitoring application loads these bundles and can stream either real dataset rows or synthetic traffic based on feature medians, offering a lightweight but realistic simulation of operational IDS performance. All experimental runs save their results to an organised directory containing plots, reports, and model outputs, making the workflow fully reproducible.
 
 This project is intended for academic and research purposes only. It demonstrates that an AI-based IDS can deliver multi-class detection, explainable insights, and lightweight near-real-time monitoring in UAV environments. By leveraging UAV-specific datasets and explainable AI, the work provides a pathway toward secure UAV operations and highlights future opportunities for extending IDS solutions to live UAV networks and more advanced deep learning models.
+Future Work:
+- Improve model accuracy
+- Add additional dataset features
